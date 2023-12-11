@@ -12,6 +12,9 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
+
+
+
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -31,7 +34,7 @@ Copyright (c) 2015 Daniel Eden
 
 .animated.bounceIn,
 .animated.bounceOut {
-  -webkit-animation-duration: .75s;
+  -webkit-animation-duration: .70s;
   animation-duration: .75s;
 }
 
