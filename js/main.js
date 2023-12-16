@@ -44,7 +44,7 @@ $('.portfolio-filter li a').on('click', function () {
     });
 return false;
 });
-//Togle Menu on click in Header
+//Togle Menu 
 $(".menu-shows").on('click', function(){
 	$(".menu-shows, .menu-shows-inner, .menu").toggleClass("active");
 });
